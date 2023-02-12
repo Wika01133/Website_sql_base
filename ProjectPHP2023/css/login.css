@@ -1,0 +1,16 @@
+body {
+  background-color: #895566;
+}
+.page-container {
+  background-color: #895566;
+  display: flex;
+  align-items: center;
+  height: 100vh;
+}
+.login-container {
+  background-color: #f3eae8;
+  padding: 20px;
+  border: 2px solid black;
+  width: 50%; /* Set the width of the container */
+  margin: 0 auto; /* Center the container horizontally */
+}
